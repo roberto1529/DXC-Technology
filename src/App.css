@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+
+.btnCus {
+  background-color: #5F249F !important;
+}
+
+.logo-small {
+  width: 60px; /* Ajusta el tamaño del logo */
+  height: auto;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
